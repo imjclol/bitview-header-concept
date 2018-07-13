@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin: 0;
+}
+
+#nav {
+    width: 1000px;
+}
+
+#nav_l {
+    float: left;
+    margin: 15px 95px 10px 15px;
+}
+
+#nav_r {
+    text-align: right;
+}
+
+#nav_r form {
+    float: right;
+    margin-top: 12px;
+}
+
+#nav_r span {
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+#navbar {
+    height: 28px;
+    text-align: right;
+    clear: right;
+}
+
+.tab {
+    float: left;
+    width: 130px;
+    text-decoration: none;
+}
+
+.tab a {
+    color: #003399;
+    border: 1px solid #adbbe0;
+    height: 28px;
+    width: 122px;
+    background: url(http://web.archive.org/web/20071001022852im_/http:/youtube.com/img/tab_nav.gif) repeat-x 0 0;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: bold;
+    position: relative;
+    display: block;
+    text-align: center;
+    border-radius: 5px 5px 0 0;
+}
+
+.tab a p {
+    margin: 9px 0em 0em 0em;
+}
+
+.hd {
+    background: linear-gradient(#cccccc, #e2e2e2);
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 2px;
+}
+
+#hd_l {
+    padding: 7.25px 0;
+}
+
+#hd_l span {
+    padding-left: 3px;
+    padding-right: 3px;
+}
